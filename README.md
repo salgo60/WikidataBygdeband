@@ -1,7 +1,7 @@
 # WikidataBygdeband
 Arbetsyta för att städa data et al mellan  Wikidata och Bygdeband. Se också [T248875](https://phabricator.wikimedia.org/T248875)
 
-Förslag Prio  
+Förslag Prio se även [Github projektyta](https://github.com/salgo60/WikidataBygdeband/projects/1)
 * Distrikt <-> Wikidata 
 * Distrikt vilken "Kommun" dom tillhör
 * ?!?!?
