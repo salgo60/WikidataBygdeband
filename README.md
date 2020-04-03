@@ -1,0 +1,2 @@
+# WikidataBygdeband
+For cleaning data
