@@ -20,13 +20,13 @@ Se exempel [karta hur vi kopplar ihop RAÄ böcker](https://goo.gl/Ftkd3F) om ky
 
 ![xxx](https://github.com/salgo60/SamlaLibris/blob/master/www/SamlaLIBRIS_small.png)
 
-Bok om en kyrka som beskriver olika personers gravar där vi kopplar ihop i WIkidata 
+Bok om Riddarholms kyrkan som beskriver olika personers gravar där vi kopplar ihop i WIkidata 
 * Boken
 * Personerna vilkas gravar beskrivs
 * Kyrkan
 * Författaren
 
-[Wikidata SPARQL fråga](http://tinyurl.com/y334xnvy) hitta personer beskrivna i boken
+[Wikidata SPARQL fråga](http://tinyurl.com/y334xnvy) hitta personer beskrivna i boken [WD Q61765464](https://www.wikidata.org/wiki/Q61765464?uselang=sv)
 
 ![Book about the Riddarholm church](https://github.com/salgo60/SamlaLibris/blob/master/www/Book.png)
 
