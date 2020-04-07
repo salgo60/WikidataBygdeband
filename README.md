@@ -43,3 +43,8 @@ Bok om Riddarholms kyrkan som beskriver olika personers gravar där vi kopplar i
 * Diskussion i FB gruppen ["Släktforskning Semantisk Web"](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/)
   * visa [gamla kartor](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824154984730643)
   * kopplingar med [LIBRIS och böcker om orten](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824164161396392)
+
+## Lite om Wikidata 
+* [An introduction to Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) Är det 
+* [Dev plan](https://www.wikidata.org/wiki/Wikidata:Development_plan)
+* [Structured data on commons](https://www.youtube.com/watch?v=lmWmMIuCJVM) - länkad data i bilder
