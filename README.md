@@ -41,5 +41,5 @@ Bok om Riddarholms kyrkan som beskriver olika personers gravar där vi kopplar i
 * [Bygdeband FaceBook](https://www.facebook.com/Bygdeband/posts/10156622211357315?__xts__[0]=68.ARCPR6tAlDO6J6_qLXDNC3fQGP_zSy1AMBg-_BrlXq5OJ15nPpjBEoBdwiHMbbBRWPPnyIizs2RLlvldmYxwUGh7UkSxn5a6Js2ySHfCDkUpZ3i_c7FfEAO3pr3ptHX8Kg_hFV3glU1TTanonz7-38PW8X6Um_Y64Jf55XvEXdgOk8g3RTCaXQF5JtE&__tn__=-R)
 * [Frågade LIBRISXL](https://kundo.se/org/librisxl/d/semantisk-koppling-i-librisxl/#c3490545) hur tänker dom? Hur skall man i framtiden hitta alla böcker som berör ens hembyggd och hur skall hembygdsföreninbgarna göra sina skriftyer tillgängliga så fler hittar dom
 * Diskussion i FB gruppen ["Släktforskning Semantisk Web"](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/)
-** visa [gamla kartor](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824154984730643)
-** kopplingar med [LIBRIS och böcker om orten](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824164161396392)
+  * visa [gamla kartor](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824154984730643)
+  * kopplingar med [LIBRIS och böcker om orten](https://www.facebook.com/groups/345973895882090/permalink/821965711616237/?comment_id=824164161396392)
