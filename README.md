@@ -13,7 +13,7 @@ Se också
 * [Issue #4](https://github.com/salgo60/WikidataBygdeband/issues/4) är gjord och Wikipedia mallen ändrad för socknar
   * Wikipedia [Jälluntofta socken](https://sv.wikipedia.org/wiki/J%C3%A4lluntofta_socken) kopplas till Bygdeband 1304 [Jälluntofta distrikt](https://www.hembygd.se/shf/plats/1304)
   * se beskrivning [Issue 8](https://github.com/salgo60/WikidataBygdeband/issues/8)
-  * Wikipedia har 2694 artiklar om socknar som har ungefär [2 734 sidvisningar per dag](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=this-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) och [1 075 657](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige)
+  * Wikipedia har 2694 artiklar om socknar som har ungefär [2 734 sidvisningar per dag](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=this-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) och [1 075 657](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) visningar 2018
 
 ![Socken](https://github.com/salgo60/WikidataBygdeband/blob/master/images/Test%20koppla%20Wiki%20Bygdeband.png?raw=true)
 
