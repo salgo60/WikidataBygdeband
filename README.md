@@ -10,7 +10,9 @@ Jag skapade även en Telegram grupp [Wikidata/Bygdeband](https://t.me/joinchat/F
 Se också 
 * [T248875](https://phabricator.wikimedia.org/T248875) "Bygdeband has changed URLS"
 * UI API:Search [prototyp Wikipedia sökning distrikt](https://jsfiddle.net/salgo60/0baqun1h/embedded/result/) som ett alternativ att länka direkt till en artikel. Fler liknande [exempel](https://minancestry.blogspot.com/2018/10/nobel-data-api-test.html)
-* test Wikipedia [Jälluntofta socken](https://sv.wikipedia.org/wiki/J%C3%A4lluntofta_socken) kopplas till Bygdeband 1304 [Jälluntofta distrikt](https://www.hembygd.se/shf/plats/1304)
+* [Issue #4](https://github.com/salgo60/WikidataBygdeband/issues/4) är gjord och Wikipedia mallen ändrad för socknar plus test finnd
+  * Wikipedia [Jälluntofta socken](https://sv.wikipedia.org/wiki/J%C3%A4lluntofta_socken) kopplas till Bygdeband 1304 [Jälluntofta distrikt](https://www.hembygd.se/shf/plats/1304)
+  * se beskrivning [Issue 8](https://github.com/salgo60/WikidataBygdeband/issues/8)
 
 ![Socken](https://github.com/salgo60/WikidataBygdeband/blob/master/images/Test%20koppla%20Wiki%20Bygdeband.png?raw=true)
 
