@@ -18,8 +18,15 @@ Här borde finnas en tanke / ide hur Bygdeband kopplar personer/bilder/platser/b
 
 Se exempel [karta hur vi kopplar ihop RAÄ böcker](https://goo.gl/Ftkd3F) om kyrkor med Wikidata dom borde kunna synas i Bygdeband [GITHUB SamlaLibris](https://github.com/salgo60/SamlaLibris) där borde museernas bilder om kyrkor synas se även test med Gotlands museum <-> Wikidata [T227736](https://phabricator.wikimedia.org/T227736) där mycket om kyrkor finns men väldigt dålig metadata
 
+![xxx](https://github.com/salgo60/SamlaLibris/blob/master/www/SamlaLIBRIS_small.png)
 
-Bok om en kyrka som beskriver olika personers gravar som vi kopplar ihop
+Bok om en kyrka som beskriver olika personers gravar där vi kopplar ihop i WIkidata 
+* Boken
+* Personerna vilkas gravar beskrivs
+* Kyrkan
+* Författaren
+
+[Wikidata SPARQL fråga](http://tinyurl.com/y334xnvy) hitta personer beskrivna i boken
 
 ![Book about the Riddarholm church](https://github.com/salgo60/SamlaLibris/blob/master/www/Book.png)
 
