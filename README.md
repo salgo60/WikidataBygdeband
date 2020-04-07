@@ -1,5 +1,5 @@
 # WikidataBygdeband
-Arbetsyta för att städa data et al mellan  Wikidata och Bygdeband. [Bygdeband](https://www.hembygd.se/shf/page/34831) har bytt plattfor till moderna byggstenar som [Leaflet](https://leafletjs.com/) / [Angular](https://angular.io/) --> nya möjligheter... och projektfolk finns på plats... 
+Arbetsyta för att städa data et al mellan  Wikidata och Bygdeband. [Bygdeband](https://www.hembygd.se/shf/page/34831) har bytt plattform till moderna byggstenar som [Leaflet](https://leafletjs.com/) / [Angular](https://angular.io/) --> nya möjligheter... och projektfolk finns på plats... 
 
 Förslag/issues Prio se [Github projektyta](https://github.com/salgo60/WikidataBygdeband/projects/1?fullscreen=true) och [Issues](https://github.com/salgo60/WikidataBygdeband/issues)
 
