@@ -35,3 +35,4 @@ Bok om Riddarholms kyrkan som beskriver olika personers gravar där vi kopplar i
 * [Video om detta](https://www.youtube.com/watch?v=6szCrwKdji0) ser att vi bör ha samma tankar hur Bygdebandsrörelsen passar ihop med alla oss andra
 * [tweet](https://twitter.com/salgo60/status/1247438144494022656?s=20) till Digitaltmuseum Ulf Bodin om han har förslag hur Bygdeband kan kopplas till dom....
 * [tweet](https://twitter.com/salgo60/status/1247449028146667522?s=20) Digisam/Nordiska museet
+* [Bygdeband FaceBook](https://www.facebook.com/Bygdeband/posts/10156622211357315?__xts__[0]=68.ARCPR6tAlDO6J6_qLXDNC3fQGP_zSy1AMBg-_BrlXq5OJ15nPpjBEoBdwiHMbbBRWPPnyIizs2RLlvldmYxwUGh7UkSxn5a6Js2ySHfCDkUpZ3i_c7FfEAO3pr3ptHX8Kg_hFV3glU1TTanonz7-38PW8X6Um_Y64Jf55XvEXdgOk8g3RTCaXQF5JtE&__tn__=-R)
