@@ -8,14 +8,16 @@ Jag skapade även en Telegram grupp [Wikidata/Bygdeband](https://t.me/joinchat/F
 ![Bygdeband WD](BygdeWD.png)
 
 Se också 
-* [T248875](https://phabricator.wikimedia.org/T248875) "Bygdeband has changed URLS"
-* UI API:Search [prototyp Wikipedia sökning distrikt](https://jsfiddle.net/salgo60/0baqun1h/embedded/result/) som ett alternativ att länka direkt till en artikel. Fler liknande [exempel](https://minancestry.blogspot.com/2018/10/nobel-data-api-test.html)
-* [Issue #4](https://github.com/salgo60/WikidataBygdeband/issues/4) är gjord och Wikipedia mallen ändrad för socknar
+* [T248875](https://phabricator.wikimedia.org/T248875) "Bygdeband has changed URLs"
+* [Issue #4](https://github.com/salgo60/WikidataBygdeband/issues/4) är gjord och Wikipedia mallen ändrad för socknar och WIkipedia länkar nu Bygdeband på > [2600 socken artiklar i Wikipedia](http://petscan.wmflabs.org/?psid=16089584)
   * Wikipedia [Jälluntofta socken](https://sv.wikipedia.org/wiki/J%C3%A4lluntofta_socken) kopplas till Bygdeband 1304 [Jälluntofta distrikt](https://www.hembygd.se/shf/plats/1304)
   * se beskrivning [Issue 8](https://github.com/salgo60/WikidataBygdeband/issues/8)
   * Wikipedia har 2694 artiklar om socknar som har ungefär [2 734 sidvisningar per dag](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=this-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) och [1 075 657](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) visningar 2018
-
 ![Socken](https://github.com/salgo60/WikidataBygdeband/blob/master/images/Test%20koppla%20Wiki%20Bygdeband.png?raw=true)
+
+* POCar
+  * UI API:Search [prototyp Wikipedia sökning distrikt](https://jsfiddle.net/salgo60/0baqun1h/embedded/result/) som ett alternativ att länka direkt till en artikel. Fler liknande [exempel](https://minancestry.blogspot.com/2018/10/nobel-data-api-test.html)
+  * POC använda [scannade kartor i WIkipedia commons](https://github.com/salgo60/WikidataBygdeband/issues/9) som har georeferenser
 
 Här borde finnas en tanke / ide hur Bygdeband kopplar personer/bilder/platser/byggnader tillbaka till Wikipedia / Wikidata Digitaltmuseum / Europeana / RAÄ / Riksarkivet.... 
 
