@@ -17,7 +17,7 @@ Se också
 
 * POCar
   * UI API:Search [prototyp Wikipedia sökning distrikt](https://jsfiddle.net/salgo60/0baqun1h/embedded/result/) som ett alternativ att länka direkt till en artikel. Fler liknande [exempel](https://minancestry.blogspot.com/2018/10/nobel-data-api-test.html)
-  * POC använda [scannade kartor i WIkipedia commons](https://github.com/salgo60/WikidataBygdeband/issues/9) som har georeferenser
+  * POC använda [scannade kartor i WIkipedia commons](https://jsfiddle.net/salgo60/0L3ofn9h/embedded/result/) med georeferenser se vidare [issue 9](https://github.com/salgo60/WikidataBygdeband/issues/9) 
 
 Här borde finnas en tanke / ide hur Bygdeband kopplar personer/bilder/platser/byggnader tillbaka till Wikipedia / Wikidata Digitaltmuseum / Europeana / RAÄ / Riksarkivet.... 
 
