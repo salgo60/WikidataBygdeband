@@ -48,5 +48,8 @@ Bok om Riddarholms kyrkan som beskriver olika personers gravar där vi kopplar i
 
 ## Lite om Wikidata 
 * [An introduction to Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE)  
-* [Dev plan](https://www.wikidata.org/wiki/Wikidata:Development_plan)
+* [Dev plan](https://www.wikidata.org/wiki/Wikidata:Development_plan) 2020 se även Phabricator ex. [Wikibase](https://phabricator.wikimedia.org/project/view/3079/)
+  * Lydia om [Wikidata/Wikibase framtiden 2019](https://media.ccc.de/v/wikidatacon2019-3-glimpse_over_wikidata)
+  * Denny Vrandečić som [skapade Wikidata om framtiden och källor](https://youtu.be/VdAc0JReVSw?t=2450)
 * [Structured data on commons](https://www.youtube.com/watch?v=lmWmMIuCJVM) - länkad data i bilder
+* Ny utveckling hämtar förslag poå referenser från referererade källor med bra metadata dvs. det är viktigt att vara maskinläsbar 
