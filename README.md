@@ -5,7 +5,6 @@ Förslag/issues Prio se [Github projektyta](https://github.com/salgo60/WikidataB
 
 Jag skapade även en Telegram grupp [Wikidata/Bygdeband](https://t.me/joinchat/FgDj6BbeSU4B6Kr3xf5JXw) om det är enklare sätt att kommunicera 
 
-![Bygdeband WD](BygdeWD.png=150x) 
 <img src="BygdeWD.png" alt="drawing" width="400"/>
 
 Se också 
