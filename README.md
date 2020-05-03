@@ -5,7 +5,8 @@ Förslag/issues Prio se [Github projektyta](https://github.com/salgo60/WikidataB
 
 Jag skapade även en Telegram grupp [Wikidata/Bygdeband](https://t.me/joinchat/FgDj6BbeSU4B6Kr3xf5JXw) om det är enklare sätt att kommunicera 
 
-![Bygdeband WD](BygdeWD.png)
+![Bygdeband WD](BygdeWD.png=150x) 
+<img src="BygdeWD.png" alt="drawing" width="400"/>
 
 Se också 
 * [T248875](https://phabricator.wikimedia.org/T248875) "Bygdeband has changed URLs"
@@ -13,7 +14,9 @@ Se också
   * Wikipedia [Jälluntofta socken](https://sv.wikipedia.org/wiki/J%C3%A4lluntofta_socken) kopplas till Bygdeband 1304 [Jälluntofta distrikt](https://www.hembygd.se/shf/plats/1304)
   * se beskrivning [Issue 8](https://github.com/salgo60/WikidataBygdeband/issues/8)
   * Wikipedia har 2694 artiklar om socknar som har ungefär [2 734 sidvisningar per dag](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=this-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) och [1 075 657](https://tools.wmflabs.org/massviews/?platform=all-access&agent=user&source=category&range=last-year&subjectpage=0&subcategories=1&sort=views&direction=1&view=list&target=https://sv.wikipedia.org/wiki/Kategori:Socknar_i_Sverige) visningar 2018
-![Socken](https://github.com/salgo60/WikidataBygdeband/blob/master/images/Test%20koppla%20Wiki%20Bygdeband.png?raw=true)
+
+<img src="images/Test%20koppla%20Wiki%20Bygdeband.png" alt="drawing" width="200"/>
+
 
 * POCar
   * UI API:Search [prototyp Wikipedia sökning distrikt](https://jsfiddle.net/salgo60/0baqun1h/embedded/result/) som ett alternativ att länka direkt till en artikel. Fler liknande [exempel](https://minancestry.blogspot.com/2018/10/nobel-data-api-test.html)
