@@ -1,4 +1,4 @@
-Version  0.0.1
+Version  0.0.1 
 398 | Q21286605 | 5078938 | Abilds distrikt | https://www.hembygd.se/shf/plats/398 | http://www.wikidata.org/entity/Q21286605
 907 | Q21566594 | 5173277 | Acklinga distrikt | https://www.hembygd.se/shf/plats/907 | http://www.wikidata.org/entity/Q21566594
 2692 | Q21667157 | 5427538 | Adelsö distrikt | https://www.hembygd.se/shf/plats/2692 | http://www.wikidata.org/entity/Q21667157
